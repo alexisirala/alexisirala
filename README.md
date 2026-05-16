@@ -15,11 +15,12 @@
 
 ## 🧠 Actualmente trabajando en
 
-- Sistemas financieros y contables
-- Procesamiento de transacciones 24/7
-- Integraciones ERP
-- Conciliación y generación de extractos
-- Optimización backend y automatización
+- Sistemas financieros y contables.
+- Procesamiento de transacciones 24/7.
+- Integraciones ERP.
+- Facturación Electrónica.
+- Conciliación y generación de extractos.
+- Optimización backend y automatización.
 
 ## 📚 Intereses
 
